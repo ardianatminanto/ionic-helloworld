@@ -1,0 +1,7 @@
+{
+  "name": "ionicHelloWorld",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
